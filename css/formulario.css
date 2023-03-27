@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(230, 0, 0);
+    color: hwb(167 52% 3%);
+}
+.buttons{
+    margin: 50px;
+}
+.buttons a{
+    border: 1px solid wheat;
+    margin: 20px;
+    padding: 10px 30px 10px 30px;
+    background-color: rgb(255, 51, 0);
+    text-decoration: none;
+    color: rgb(80, 199, 169);
+    font-size: 20px;
+    transition: 1s all;
+    
+}
+.buttons a:hover{
+    background-color: #2deece;
+    color: black;
+    padding: 20px 40px 20px 40px;
+}
+.forms{
+    margin: 10px;
+    
+}
+.forms label{
+    font-size: 100%;
+}

@@ -1,0 +1,50 @@
+*{
+    background-color: rgb(180, 240, 255);
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 5px 20px;
+    width: 500px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color:rgb(193, 255, 255);
+    text-align: start;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+   
+}
+
+.caja1{
+    background-color: rgb(189, 171, 90);
+    position: sticky;
+    left: 10px;
+    bottom: 20px;
+}
+.caja2{
+    
+    background-color: rgb(91, 102, 204);
+    position: inherit;
+    left: 10px;
+    bottom: 20px;
+}
+.caja3{
+    color: aliceblue;
+    background-color: rgb(71, 124, 50);
+    position: sticky;
+    left: 10px;
+    bottom: 20px;
+}
+.caja4{
+    background-color: rgb(255, 0, 0);
+    position: static;
+    left: 10px;
+    bottom: 20px;
+}

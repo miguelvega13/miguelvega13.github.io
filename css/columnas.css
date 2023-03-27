@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+body{
+    background-color: cadetblue;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 5px 20px;
+    width: 500px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color:rgb(177, 149, 66);
+    text-align: center;
+}
+
+li{
+    list-style: none;
+    margin: 5px;
+    padding: auto;
+}
+#columnas{
+    column-count:3;
+    column-gap:10px;
+    column-rule:2px dotted gray;
+}
+h1{
+    margin: 5px;
+    padding: 5px 20px;
+    width: 500%;
+    font-size: 20px; 
+}
